@@ -1,4 +1,20 @@
 <!-- Stats -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+repository!;Explore+my+projects+and+let’s+build+something+great+together!" />
+</p>
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm viveknarula!</h1>
+<h3 align="center">A Full Stack Developer passionate about building scalable web applications.</h3>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viveknarula1980&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveknarula1980&theme=aura&hide_border=true" width="50%" />
