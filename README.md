@@ -1,14 +1,3 @@
-<!-- Stats -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+repository!;Explore+my+projects+and+let’s+build+something+great+together!" />
-</p>
-
-
-
-
-
-
 
 
 <h1 align="center">Hi 👋, I'm viveknarula!</h1>
